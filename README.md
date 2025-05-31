@@ -1,9 +1,13 @@
 # 新一代智能视频分析平台
 
 <video src="./example.mp4" controls width="800" height="600"></video>
+![1](./example.gif)
+
 ## 联系作者
 
 ![1](./img/微信1.png)
+
+
 
 ## 突破性的AI视觉分析
 
